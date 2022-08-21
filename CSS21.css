@@ -18,6 +18,11 @@ ul li {
   margin-right: 1em;
 }
 
+.img {
+  width: 50%;
+  float: right;
+}
+
 .text {
   font-size: 50px;
   line-height: 50px;
@@ -30,7 +35,3 @@ ul li {
   background-color: navy;
 }
 
-.img {
-  width: 50%;
-  float: right;
-}
